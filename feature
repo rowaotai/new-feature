@@ -1,1 +1,1 @@
-confic 2
+feature 2
